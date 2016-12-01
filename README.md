@@ -5,9 +5,9 @@
 Java implementation of Goldwasser Micali Efficient Variant http://eprint.iacr.org/2013/435
 
 ##Usage
-The code includes a GUI to provide easier testing ![Alt text][id].
+The code includes a GUI to provide easier testing ![GUI][gui].
 
-Using the code:
+###Using the code:
 
 Key Generation: 
 * GenerateKeys generateKeys = new GenerateKeys(k, keySize);
